@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" alt="Hubino Logo" width="120" />
+  <img src="hubinodiscordlisting.png" alt="Hubino Logo" width="120" />
 </p>
 <h1 align="center">Hubino — Discord Sunucu Listesi</h1>
 <p align="center">
